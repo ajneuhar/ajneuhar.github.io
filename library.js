@@ -1,4 +1,4 @@
-var InputUtilties = {
+var InputUtilities = {
     getNumber: function(message) {
         return 1 * prompt(message);
     }
